@@ -30,7 +30,7 @@
 	}
 	```
 2. 获取输赢场数
-	接口：``
+	接口：`GET /players/{account_id}/wl`
 	请求参数：account_id:integer,Required(Steam32 account ID)
 	查询参数：
 		limit	
