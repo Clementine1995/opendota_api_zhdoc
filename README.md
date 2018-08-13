@@ -15,16 +15,15 @@
 安全方案类型|API KEY
 请求参数名|api_key
 
-+ [比赛]()
++ [比赛](https://github.com/Clementine1995/opendota_api_zhdoc/blob/origin/dev/src/matches.md)
 
++ [玩家](https://github.com/Clementine1995/opendota_api_zhdoc/blob/origin/dev/src/players.md)
 
-玩家
++ [职业选手](https://github.com/Clementine1995/opendota_api_zhdoc/blob/origin/dev/src/proPlayers.md)
 
-职业选手
++ [职业比赛](https://github.com/Clementine1995/opendota_api_zhdoc/blob/origin/dev/src/proMatches.md)
 
-职业比赛
-
-公开比赛
++ [公开比赛](https://github.com/Clementine1995/opendota_api_zhdoc/blob/origin/dev/src/pubMatches.md)
 
 Explorer
 
