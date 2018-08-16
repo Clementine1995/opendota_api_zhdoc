@@ -25,9 +25,13 @@
 
 + [公开比赛](https://github.com/Clementine1995/opendota_api_zhdoc/blob/origin/dev/src/pubMatches.md)
 
-Explorer
++ [英雄](https://github.com/Clementine1995/opendota_api_zhdoc/blob/origin/dev/src/heroes.md)
 
-元数据
++ [队伍](https://github.com/Clementine1995/opendota_api_zhdoc/blob/origin/dev/src/teams.md)
+
++ [Explorer](https://github.com/Clementine1995/opendota_api_zhdoc/blob/origin/dev/src/explorer.md)
+
++ 元数据
 
 分布
 
@@ -43,13 +47,9 @@ Explorer
 
 请求
 
-英雄
-
 英雄统计
 
 联赛
-
-队伍
 
 录像
 
